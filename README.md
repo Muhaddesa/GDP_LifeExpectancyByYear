@@ -27,7 +27,7 @@ The distribution of GDP and life expectancy for each of the six countries was lo
 
 It was clear from examining the line graph showing changes in life expectancy over time that Zimbabwe saw a rise in life expectancy, which went from 45 years in 2004 to 60 years in 2014. On the other hand, within the same time frame, life expectancy did not significantly increase in the other nations.
 In addition, the line graph showed that between 2000 and 2014, the GDPs of China and the United States both showed an upward tendency. This suggests that these countries' economic output has increased over the specified period of time.
-The investigation revealed that there is a weak positive association between a nation's GDP and its life expectancy. Although longer life expectancy is typically correlated with higher GDP, the association seen in this study was not substantially
+The investigation revealed that there is a positive association between a nation's GDP and its life expectancy. 
 
 <h3>Conclusion</h3>
 In summary, the project highlighted the differences in GDP growth rates and life expectancy levels, shedding insight on the relationship between GDP and life expectancy in the named nations. Our knowledge of the variables affecting life expectancy and the intricate relationships between population health and economic development has improved as a result of these results.
